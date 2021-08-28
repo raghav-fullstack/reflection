@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51719813-f9f3-4d2a-ac4c-99d2656245c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/SpringBoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/Annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/MyChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Annotation/src/MyParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/list/ArrayListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/list/ListMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/arraysutil/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/arraysutil/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/collectionsutil/CollectionReverseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/collectionsutil/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/collectionsutil/SortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/comparator/SBComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/comparator/StringComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/list/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/list/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/list/ListIteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/list/ListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/maps/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/maps/IdentityHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/maps/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/maps/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/maps/WeakHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/navigable/AssignmentTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/navigable/NavigableTreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/queue/PriorityQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/ramdom/RandomDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/set/DifferentSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/set/HastSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/set/StringBufferTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/set/StringTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/sortingobjects/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/sortingobjects/EmployeeNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/sortingobjects/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Arrays/Arrays Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Arrays/PPT/Arrays Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Assertions/Assertions.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Assertions/PPT/Assertions.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/ArrayList.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/Collections Intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/Comparable.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/Comparator Theory.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/HashMap.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/Hashmap theory.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/Navigable Set Intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/ArrayList.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/Collections Intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/Comparable.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/Comparator Theory.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/HashMap.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/Hashmap theory.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/Navigable Set Intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PPT/PriorityQueue Intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Collections/PriorityQueue Intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Command Line Args/Command Line Arguments.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Command Line Args/PPT/Command Line Arguments.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Encapsulation/Encapsulation.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Encapsulation/PPT/Encapsulation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Enums/EnumIntro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Enums/PPT/EnumIntro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Exception Handling/ATM Usecase.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Exception Handling/PPT/ATM Usecase.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Exception Handling/PPT/exception handling intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Exception Handling/exception handling intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/Do While Loop.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/Flow Control Intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/For Loop.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/IF-ELSE.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/PPT/Do While Loop.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/PPT/Flow Control Intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/PPT/For Loop.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/PPT/IF-ELSE.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/PPT/Switch.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/PPT/While Loop.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/Switch.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Flow Control/While Loop.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Generics/Generic Classes.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Generics/Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Generics/PPT/Generic Classes.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Generics/PPT/Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/IO Streams/IO Streams Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/IO Streams/PPT/IO Streams Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/IO Streams/PPT/Serialization Intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/IO Streams/Serialization Intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Inheritance/final modifier.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Inheritance/ppt/final modifier.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Inner Classes/Anonymous inner introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Inner Classes/ppt/Anonymous inner introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/Function.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/Functional Interfaces.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/Lambda Expressions.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/Predicate Joins.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/Predicate.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/ppt/Function.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/ppt/Functional Interfaces.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/ppt/Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/ppt/Lambda Expressions.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/ppt/Predicate Joins.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JAVA 8 Features/ppt/Predicate.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Class Loading Sub System Final.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Class Loading Subsystem Theory.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Components of JVM.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Heap Area.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/How Class Loaders Work.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Initialization.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Method Area.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Native Method Area.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/PC Registers Area.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Stack Area.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Stack Memory.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Types of class loaders.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/Virtual Machine.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Class Loading Sub System Final.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Class Loading Subsystem Theory.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Components of JVM.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Heap Area.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/How Class Loaders Work.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Initialization.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Method Area.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Native Method Area.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/PC Registers Area.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Stack Area.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Stack Memory.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Types of class loaders.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/JVM Arthitecture/ppt/Virtual Machine.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Non Static Members/Non Static Member Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Non Static Members/PPT/Non Static Member Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Non Static Members/PPT/Static Vs Non Static.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Non Static Members/Static Vs Non Static.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Abstraction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Building Blocks Of Java Application.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Encapsulation.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Inheritance.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Java Developers Kit.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Methods.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/OOP Features.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Object Oriented Programming.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/PlatForm Independency.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Polymorphism.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/Structure adn Contexts of a java application.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Abstraction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Building Blocks Of Java Application.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Encapsulation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Inheritance.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Java Developers Kit.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Methods.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/OOP Features.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Object Oriented Programming.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/PlatForm Independency.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Polymorphism.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/OOPS/ppt/Structure adn Contexts of a java application.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/INtro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/equals.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/equalsandhashcode contract.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/hashcode intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/ppt/INtro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/ppt/equals.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/ppt/equalsandhashcode contract.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/ppt/hashcode intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/ppt/toString.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Object Class Methods/toString.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/Bitwise Operators.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/Comparison Operators.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/Conditional Operator.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/Short-Circuit Operators.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/String Concat Operator.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/TernaryOperator.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/Unary.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/ppt/Bitwise Operators.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/ppt/Comparison Operators.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/ppt/Conditional Operator.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/ppt/Short-Circuit Operators.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/ppt/String Concat Operator.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/ppt/TernaryOperator.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Operators and Assignments/ppt/Unary.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Packages/Packages Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Packages/Real Life Example.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Packages/ppt/Packages Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Packages/ppt/Real Life Example.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Polymorphism/Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Polymorphism/Method Overloading.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Polymorphism/Runtime Poloymorphism.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Polymorphism/ppt/Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Polymorphism/ppt/Method Overloading.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Polymorphism/ppt/Runtime Poloymorphism.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/String Handling/String Handling big intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/String Handling/String Immutable.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/String Handling/String Intro.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/String Handling/ppt/String Handling big intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/String Handling/ppt/String Immutable.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/String Handling/ppt/String Intro.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/ByteRepresentation.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/Introduction.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/TypeCasting.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/Wrapper Classes.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/ppt/ByteRepresentation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/ppt/Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/ppt/TypeCasting.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core Java Presentations/Type Casting/ppt/Wrapper Classes.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/Enums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/out/production/Enums/Databases.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/out/production/Enums/PaymentType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/out/production/Enums/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/src/Databases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/src/PaymentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enums/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/ExceptionHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/ArrayIndexOOBDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/MultiCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/StringParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/ThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/assertions/AssertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/checked/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/customexceptions/CheckedCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/customexceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/customexceptions/UncheckedCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/mostwanted/ArrayIndexOutOfBoundDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/mostwanted/ClassCastDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/mostwanted/IllegalArgumentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/mostwanted/NullPointerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/mostwanted/StackOverflowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionHandling/src/mostwanted/StaticBlockInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExecutorFramework/ExecutorFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GarbageCollection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GarbageCollection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GarbageCollection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GarbageCollection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GarbageCollection/GarbageCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GarbageCollection/src/GCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/out/production/Generics/MyGenericsClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/out/production/Generics/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/out/production/Generics/TypeCastingProblems.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/AnyGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/AnyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/AnyRunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/MethodLevelGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/MyGenericsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/TypeCastingProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/WildCardParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/Emp.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/IOStreams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/BufferedReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/FileOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/ReadAndWriteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/StringTokenizerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/SumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/serialization/DeSerializationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/serialization/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOStreams/src/serialization/SerializationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/InnerClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/anonymousinner/AnonymousRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/anonymousinner/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/anonymousinner/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/anonymousinner/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/localinner/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/nonstaticinner/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/staticinner/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/Java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/out/production/Java8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Movies.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/ObjectMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/out/production/ObjectMethods/Passengers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/out/production/ObjectMethods/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/src/Passengers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectMethods/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/AppleLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/CompileTimeBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/MacBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/MacBookAir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/MacBookPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/RunTimeBinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/overloading/AutomaticPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/overriding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/overriding/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/src/overriding/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringHanlding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringHanlding/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringHanlding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringHanlding/StringHanlding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringHanlding/src/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/User.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/src/ClassLoading/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/src/ClassLoading/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User/src/MultipleLoading/MultipleObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/out/production/abstraction/BMW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/AbstractAndFinalComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/FiveSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/ThreeSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/assignment/Dell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/assignment/DellNoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/assignment/HP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/assignment/HPNoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/assignment/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/assignment/TouchScreenLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/interfaces/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/interfaces/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/interfaces/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/src/interfaces/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/raghav/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/raghav/apigateway/ApiGatewayConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/src/test/java/com/raghav/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/out/production/arrays/ArraysDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/src/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/src/CharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/src/FiveWithZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/src/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/src/TwoDimensionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_google_code_gson_gson_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_jcraft_jsch_0_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_openfeign_feign_core_10_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_annotations_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_bulkhead_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_circuitbreaker_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_circularbuffer_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_consumer_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_framework_common_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_micrometer_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_ratelimiter_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_retry_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_spring_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_spring_boot2_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_resilience4j_resilience4j_timelimiter_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_github_x_stream_mxparser_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_micrometer_micrometer_core_1_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_vavr_vavr_0_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__io_vavr_vavr_match_0_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__net_minidev_accessors_smart_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__net_minidev_json_smart_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_aop_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_context_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_expression_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_test_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_web_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/src/main/java/com/raghav/currencyconversionserver/CircuitBreakerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/src/main/java/com/raghav/currencyconversionserver/CurrencyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/src/main/java/com/raghav/currencyconversionserver/CurrencyConversionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/src/main/java/com/raghav/currencyconversionserver/CurrencyConversionServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/src/main/java/com/raghav/currencyconversionserver/CurrencyExchangeProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-server/currency-conversion-server/src/test/java/com/raghav/currencyconversionserver/CurrencyConversionServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/main/java/com/raghav/currencyexchangeserver/CircuitBreakerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/main/java/com/raghav/currencyexchangeserver/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/main/java/com/raghav/currencyexchangeserver/CurrencyExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/main/java/com/raghav/currencyexchangeserver/CurrencyExchangeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/main/java/com/raghav/currencyexchangeserver/CurrencyExchangeServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-server/src/test/java/com/raghav/currencyexchangeserver/CurrencyExchangeServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulation/encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulation/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encapsulation/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowcontrol/flowcontrol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowcontrol/src/IfLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-pundits-invoicify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/JpaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/Misc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/controller/MoviesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/dto/CrewsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/dto/MoviesDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/dto/ProductionsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/dto/ReviewsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/entity/CrewsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/entity/MoviesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/entity/ProductionsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/entity/ReviewsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/misc/CrewType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/repository/MoviesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/fullstack/jpa/service/MoviesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/resources/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/main/resources/json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/src/test/java/com/fullstack/jpa/JpaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/out/production/lambda/Greeter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/out/production/lambda/Greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/out/production/lambda/HelloWorldGreeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/HelloWorldGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/MethodReference1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/MethodReference2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/RunnableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/TypeInferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/UnitExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/UnitExerciseJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-service/src/main/java/com/raghav/limitservice/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-service/src/main/java/com/raghav/limitservice/GetLimits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-service/src/main/java/com/raghav/limitservice/LimitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-service/src/main/java/com/raghav/limitservice/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__io_micrometer_micrometer_core_1_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__net_minidev_accessors_smart_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__net_minidev_json_smart_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_aop_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_context_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_expression_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_test_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_web_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/limit-servicev2/git-localconfig-repo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/limit-servicev2/src/main/java/com/raghav/limitservicev2/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/limit-servicev2/src/main/java/com/raghav/limitservicev2/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../limit-servicev2/limit-servicev2/src/main/java/com/raghav/limitservicev2/GetMaxMinLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/CheckProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/MultiThreaded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/SingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/assignment/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/assignment/OddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/assignment/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/daemon/DaemonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/daemon/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/interrupt/InterruptDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/interrupt/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/DisplayMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/SynchronizationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/blocks/DisplayMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/blocks/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/blocks/SynchronizationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/classlock/DisplayMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/classlock/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/classlock/SynchronizationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/deadlocks/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/deadlocks/FirstResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/synchronization/deadlocks/SecondResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/threadcommunication/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/threadcommunication/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/threadgroups/CustomThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/threadgroups/ThreadGroupDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/threadgroups/ThreadGroupMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/yield/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/yield/YieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/src/main/java/com/raghav/namingserver/NamingServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/src/test/java/com/raghav/namingserver/NamingServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/out/production/operators/ArithmeticOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/out/production/operators/BMICalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/out/production/operators/BitwiseOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/out/production/operators/StringConcat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/out/production/operators/TernaryOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/out/production/operators/UnaryOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/src/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/src/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/src/BitwiseOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/src/StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/src/TernaryOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operators/src/UnaryOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/reflection/reflection/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_aop_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_context_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_expression_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_test_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_tx_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_web_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/src/main/java/com/raghav/springsecurityjdbc/HomeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/src/main/java/com/raghav/springsecurityjdbc/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/src/main/java/com/raghav/springsecurityjdbc/SpringSecurityJdbcApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jdbc/spring-security-jdbc/src/test/java/com/raghav/springsecurityjdbc/SpringSecurityJdbcApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/java/com/raghav/springsecurityjpa/HomeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/java/com/raghav/springsecurityjpa/MyUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/java/com/raghav/springsecurityjpa/MyUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/java/com/raghav/springsecurityjpa/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/java/com/raghav/springsecurityjpa/SpringSecurityJpaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/java/com/raghav/springsecurityjpa/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/java/com/raghav/springsecurityjpa/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jpa/src/test/java/com/raghav/springsecurityjpa/SpringSecurityJpaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jwt/src/main/java/com/raghav/springsecurityjwt/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jwt/src/main/java/com/raghav/springsecurityjwt/MyUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jwt/src/main/java/com/raghav/springsecurityjwt/SecurityConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jwt/src/main/java/com/raghav/springsecurityjwt/models/AuthenticateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jwt/src/main/java/com/raghav/springsecurityjwt/models/AuthenticateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-jwt/src/main/java/com/raghav/springsecurityjwt/util/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/src/main/java/com/raghav/springsecurityldap/HomeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/src/main/java/com/raghav/springsecurityldap/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/src/main/java/com/raghav/springsecurityldap/SpringSecurityLdapApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/src/main/resources/ldap-data.ldif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-ldap/src/test/java/com/raghav/springsecurityldap/SpringSecurityLdapApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/Read.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/src/main/java/com/raghav/springsecurity/HomeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/src/main/java/com/raghav/springsecurity/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/src/main/java/com/raghav/springsecurity/SpringsecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springsecurity/src/test/java/com/raghav/springsecurity/SpringsecurityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/javaBasicObjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/CommandLineArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/ExplicitTypeCast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/ImplicitTypeCast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/NonStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/ObjectRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/PrimitiveAndObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/Static.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/StaticDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/StringAndObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/out/production/javaBasics/VariableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/CommandLineArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/ExplicitTypeCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/ImplicitTypeCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/NonStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/ObjectRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/PrimitiveAndObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/StringAndObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../static/src/VariableDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xL4qWoelVFzWvzfUeitIxoNvoD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflection.Test" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51719813-f9f3-4d2a-ac4c-99d2656245c0" name="Default Changelist" comment="" />
+      <created>1630121228360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630121228360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
